@@ -1,0 +1,8 @@
+# Ignore data folder
+data/
+
+# Ignore all .pt files
+*.pt
+
+# But do not ignore mypt.pt
+!cifar_mynet_final.pt
